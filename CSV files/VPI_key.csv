@@ -1,50 +1,50 @@
 Number,Name
 0,Review
 1,Turf
-2,Turf_ru
-3,Lob_var
-4,Peys
+2,Turf_rubble
+3,Lobophora variegata
+4,Peyssonnelia
 5,CCA
-6,CCA_ru
-7,CCA_si
-8,Halim
+6,CCA_rubble
+7,CCA_sick
+8,Halimeda
 9,Cyano
 10,Neomer
-14,Cauler
+14,Caulerpa
 17,Mocrod
 23,Dictsph
 24,Dictyo
 25,Dictyp
-28,Galaxu
+28,Galaxaura
 38,R_Calc_Mac
-39,Red_Fl_Mac
-41,Acro_br
+39,Red fleshy macro
+41,Acro_branch
 42,Acro_ta
 43,Acrop
-44,M.cap_br
-45,M.cap_en
+44,Montipora capitata branching
+45,Montipora capitata encrusting
 46,M.cap_fol
 47,M.flab
 48,M.fove
-49,M.pat
+49,Montipora patula 
 50,Mont_br
-51,Mont_en
-52,Mont_fol
-53,Monti
+51,Monti_crust
+52,Monti_foliose
+53,Montipora spp
 56,Pav.clav
 57,Pav.duer
 58,Pav.exp
 60,Pav.var
 61,Pav_en
 63,Pav_mas
-64,Pavona
+64,Pavona spp
 65,Poc.dam
 66,Poc.eye
-68,Poc.mea
+68,Pocillopora meandrina/verrucosa
 70,Pocill
-83,Por.sup
+83,Porites superfusa
 85,Por_en
-87,Por_mas
+87,Porites spp_massive
 88,Porites
 94,Leptos
 97,Turbin
@@ -53,10 +53,10 @@ Number,Name
 120,Hydnop
 125,Platyg
 137,Goniop
-139,Psammo
-153,Sed_fi
-154,Limest
-159,Cmorph
+139,Psammocora
+153,Fine sediment
+154,Limestone
+159,Corallimorph
 160,Sponge
 162,Zoanth
 173,Unk_soft
