@@ -165,6 +165,10 @@ sapply(merge,unique)
 
 
 
+# Add percent cover
+merge <- merge %>% group_by(site_year) %>%
+            mutate(percent = 100*(count/sum(count))) 
+
 
 #### Group classes into functional groups ####
 sapply(merge, unique)
@@ -217,7 +221,7 @@ merge$tier3 <- ifelse(merge$class %in% nonbiological, "nonbiological",as.charact
 
 
 ##### Export merge data ####
-write.csv(merge,"C:/Users/Corinne.Amir/Documents/GitHub/Cmorph_Removal/CSV files/Final Products/RAW_03-06-2024.csv",row.names = F)
+write.csv(merge,"C:/Users/Corinne.Amir/Documents/GitHub/Cmorph_Removal/CSV files/Final Products/RAW_03-11-2024.csv",row.names = F)
   
   
   
